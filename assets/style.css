@@ -22,7 +22,6 @@ header .immagine{
 }
   main{
   width:100%;
-  height: 800px;
   background-color: #0485FA;
   padding-bottom: 2%;
   margin-bottom: 10px;
@@ -30,15 +29,14 @@ header .immagine{
 .head{
   width:100%;
   background-color: #ABCFE7;
-  height: 15%;
   margin-bottom:2%;
+  height: 100px;
 }
 
 .center
 {
   background-color: #ABCFE7;
   width: 56%;
-
   margin: 0 2%;
 }
 
@@ -47,6 +45,7 @@ header .immagine{
 {
   background-color: #ABCFE7;
   width: 20%;
+  
 }
 
  .left,
@@ -54,7 +53,7 @@ header .immagine{
  .right
 {
   float: left;
-  height: 81%;
+  height: 400px;
 }
 
 
